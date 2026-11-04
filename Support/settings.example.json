@@ -1,0 +1,6 @@
+{
+  "apiKey": "",
+  "model": "deepseek-v4-pro",
+  "aiEnabled": true,
+  "baseURL": "https://api.deepseek.com"
+}

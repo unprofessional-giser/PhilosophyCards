@@ -1,0 +1,13 @@
+build/
+dist/
+.build/
+.DS_Store
+*.xcodeproj
+*.xcworkspace
+
+# 本地密钥与生成缓存（正常情况下它们在 ~/Library/Application Support 里，
+# 这两行是防止有人手动拷进仓库目录）
+settings.json
+ai-cards.json
+.env
+*.local.json
