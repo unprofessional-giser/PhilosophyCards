@@ -6,8 +6,6 @@
 
 按一下 `⌥⌘K` 呼出，读完点「下一个」，可以一直读下去。
 
-![暗色模式](docs/card-dark.png)
-
 <p align="center"><img src="docs/ai-card-dark.png" width="46%" />&nbsp;&nbsp;<img src="docs/settings-dark.png" width="46%" /></p>
 
 ## 功能
