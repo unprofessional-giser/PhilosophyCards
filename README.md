@@ -6,7 +6,7 @@
 
 按一下 `⌥⌘K` 呼出，读完点「下一个」，可以一直读下去。
 
-<p align="center"><img src="docs/ai-card-dark.png" width="46%" />&nbsp;&nbsp;<img src="docs/settings-dark.png" width="46%" /></p>
+<p align="center"><img src="docs/ai-card-dark.png" width="35%" />&nbsp;&nbsp;<img src="docs/settings-dark.png" width="35%" /></p>
 
 ## 功能
 
